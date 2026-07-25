@@ -1,0 +1,41 @@
+{
+  "display_name": "Tirth",
+  "short_bio": "CS and DS student exploring AI, automation, and problem solving.",
+  "tagline": "From Curiosity to Creation",
+  "current_status": "Student",
+  "current_focus": [
+    "Python",
+    "Data Science",
+    "AI/ML",
+    "Research",
+    "Problem Solving",
+    "Building practical projects"
+  ],
+  "programming_languages": [
+    "Python",
+    "C",
+    "C++",
+    "HTML"
+  ],
+  "frameworks_tools": [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "GitHub Actions"
+  ],
+  "other_technical_skills": [
+    "Git/GitHub",
+    "Vibe Coding",
+    "Automation",
+    "Problem Solving",
+    "Data Structures",
+    "DBMS"
+  ],
+  "highlights": [
+    "Building practical AI-focused projects",
+    "Active in coding, problem solving, hackathons, and technical learning"
+  ],
+  "social_links": {
+    "github": "https://github.com/kapateltirth01"
+  }
+}

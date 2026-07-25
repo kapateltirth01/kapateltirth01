@@ -1,0 +1,28 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Node modules and local Node package files
+node_modules/
+package-lock.json
+package.json
+
+# macOS metadata
+.DS_Store
+
+# Build and local preview artifacts
+.dist/
+info-card-preview.png
+ascii-profile.png.png
+contrib-heatmap.svg.png
+README-preview.html
+
+# Temporary files
+*.log
+*~
+
+# Python cache
+__pycache__/
+*.pyc
